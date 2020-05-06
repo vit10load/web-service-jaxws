@@ -1,0 +1,5 @@
+datamodel\Aluno.class
+com\br\teste\ws\dao\AlunoDao.class
+com\br\teste\ws\aluno\main\Main.class
+com\br\teste\ws\factory\bd\FactoryConnection.class
+com\br\teste\ws\service\AlunoService.class
