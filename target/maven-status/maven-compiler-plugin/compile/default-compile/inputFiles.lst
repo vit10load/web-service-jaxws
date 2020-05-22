@@ -1,5 +1,6 @@
-C:\Users\vitcl\Documents\NetBeansProjects\WS-ALUNO\src\main\java\com\br\teste\ws\aluno\main\Main.java
-C:\Users\vitcl\Documents\NetBeansProjects\WS-ALUNO\src\main\java\com\br\teste\ws\service\AlunoService.java
-C:\Users\vitcl\Documents\NetBeansProjects\WS-ALUNO\src\main\java\com\br\teste\ws\factory\bd\FactoryConnection.java
-C:\Users\vitcl\Documents\NetBeansProjects\WS-ALUNO\src\main\java\datamodel\Aluno.java
-C:\Users\vitcl\Documents\NetBeansProjects\WS-ALUNO\src\main\java\com\br\teste\ws\dao\AlunoDao.java
+C:\Users\vitcl\Documents\NetBeansProjects\WS-PESSOA\src\main\java\com\br\teste\ws\factory\bd\FactoryConnection.java
+C:\Users\vitcl\Documents\NetBeansProjects\WS-PESSOA\src\main\java\com\br\teste\ws\pessoa\main\Main.java
+C:\Users\vitcl\Documents\NetBeansProjects\WS-PESSOA\src\main\java\com\br\teste\ws\dao\PessoaDAO.java
+C:\Users\vitcl\Documents\NetBeansProjects\WS-PESSOA\src\main\java\datamodel\Pessoa.java
+C:\Users\vitcl\Documents\NetBeansProjects\WS-PESSOA\src\main\java\com\br\teste\ws\utils\ValidaCpfException.java
+C:\Users\vitcl\Documents\NetBeansProjects\WS-PESSOA\src\main\java\com\br\teste\ws\service\PessoaService.java

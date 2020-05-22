@@ -1,5 +1,6 @@
-datamodel\Aluno.class
-com\br\teste\ws\dao\AlunoDao.class
-com\br\teste\ws\aluno\main\Main.class
+com\br\teste\ws\dao\PessoaDAO.class
+com\br\teste\ws\service\PessoaService.class
 com\br\teste\ws\factory\bd\FactoryConnection.class
-com\br\teste\ws\service\AlunoService.class
+com\br\teste\ws\utils\ValidaCpfException.class
+datamodel\Pessoa.class
+com\br\teste\ws\pessoa\main\Main.class

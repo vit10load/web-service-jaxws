@@ -4,13 +4,14 @@ package datamodel;
  *
  * @author vitcl
  */
-public class Aluno {
+public class Pessoa {
     
     private Long id;
     private String nome;
-    private String telefone;
+    private String email;
+    private String cpf;
 
-    public Aluno() {
+    public Pessoa() {
     }
 
     public Long getId() {
@@ -29,13 +30,22 @@ public class Aluno {
         this.nome = nome;
     }
 
-    public String getTelefone() {
-        return telefone;
+    public String getEmail() {
+        return email;
     }
 
-    public void setTelefone(String telefone) {
-        this.telefone = telefone;
+    public void setEmail(String email) {
+        this.email = email;
     }
+
+    public String getCpf() {
+        return cpf;
+    }
+
+    public void setCpf(String cpf) {
+        this.cpf = cpf;
+    }
+
     
     
     
